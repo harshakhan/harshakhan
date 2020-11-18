@@ -23,9 +23,8 @@ I am a aspiring Full Stack Web Developer from India. With time coding has become
  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/react%20redux%20-%23c21325.svg?&style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/python%20-%23329993.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/mysql%20-%23db7023.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Flask%20-%23c21378.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;
+
 </p>
 <hr>
 
