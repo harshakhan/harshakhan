@@ -30,6 +30,6 @@ I am a aspiring Full Stack Web Developer from India. With time coding has become
 
 
 <p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gunjan6788&theme=tokyonight&show_icons=true&count_private=true" height="207px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjan6788&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshakhan&theme=tokyonight&show_icons=true&count_private=true" height="207px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshakhan&theme=tokyonight"/>
 </P>
