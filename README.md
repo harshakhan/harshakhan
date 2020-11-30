@@ -1,7 +1,7 @@
 
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="230" height="250" />
 <h2><samp><strong>Hey there :raising_hand_man:,	I'm Harsha Khan </strong></samp></h2> 
-<h5 ><samp><a href="https://practical-swirles-f1ae0d.netlify.app/">Portfolio</a></samp></h5>
+<h5 ><samp><a href="">Portfolio</a></samp></h5>
 <h4 ><samp>Full Stack Developer</samp></h4>
 <p ><samp>
 I am a aspiring Full Stack Web Developer from India. With time coding has become a huge part of my life and I am determined to push relevant codes on github everyday. I love to take on new projects and learn new things as it satisfies me.
